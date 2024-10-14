@@ -1,0 +1,25 @@
+body {
+    margin: auto;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    
+    
+  }
+
+  /* Center the div content and stack the h1 elements */
+  .centered {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: absolute;
+    
+
+  #randomphrases {
+    color: red;
+  }
